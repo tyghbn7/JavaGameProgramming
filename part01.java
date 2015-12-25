@@ -1,4 +1,6 @@
 public class part01  //part16
+練習
+
 {
   
   public static void main(String[] args) throws java.io.IOException
